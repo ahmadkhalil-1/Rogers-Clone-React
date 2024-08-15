@@ -8,6 +8,7 @@ import Nav from './Components/Nav';
 import Nav2 from './Components/Nav2';
 import Footer from './Components/Footer';
 import Buynow from './Components/Buynow';
+import MobDetails from './Components/MobileDetails/MobDetails';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Route path="/mobile/plans/fivegmob" element={<FiveGMob />} />
         <Route path="/mobile/phones/smartphones" element={<SmartPhones />} />
         <Route path="/new5g/buynow" element={<Buynow />} />
+        <Route path="/mobileDetails" element={<MobDetails />} />
       </Routes>
       <Footer />
     </Router>
