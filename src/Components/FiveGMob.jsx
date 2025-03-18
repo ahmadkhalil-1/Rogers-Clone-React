@@ -9,7 +9,7 @@ const FiveGMob = () => {
           New 5G Plans For Mobiles
         </h1>
         <p class="text center p-10 text-justify">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi vel quidem sunt error saepe et suscipit eos cum quod hic eius ad magni iure nobis, aperiam praesentium sed placeat veniam harum culpa eaque pariatur eveniet. Rem animi ea, provident laborum odio minima eius, reprehenderit maxime odit fugiat assumenda, aut explicabo.
+          Lorem ipsum dolor amet consectetur adipisicing elit. Commodi vel quidem sunt error saepe et suscipit eos cum quod hic eius ad magni iure nobis, aperiam praesentium sed placeat veniam harum culpa eaque pariatur eveniet. Rem animi ea, provident laborum odio minima eius, reprehenderit maxime odit fugiat assumenda, aut explicabo.
         </p>
         <div class="mb-5">
           <Cards />
