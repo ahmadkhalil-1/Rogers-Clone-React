@@ -17,7 +17,7 @@ const Cards = () => {
                                     <p className="mb-3 text-gray-600">For 24 months after an eligible trade in, bill credit and with phone financing plus Save & Return (bring back device within 2 years). Taxes extra.</p>
                                     <h6 className="font-bold text-xl text-black">Full price $1,161</h6>
                                     <div className="flex items-center justify-center mt-4">
-                                        <button onClick={() => navigate('mobileDetails')} className="bg-red-600 hover:bg-red-700 text-white w-full font-bold py-2 px-4">
+                                        <button onClick={() => navigate('/mobileDetails')} className="bg-red-600 hover:bg-red-700 text-white w-full font-bold py-2 px-4">
                                             Learn More <i className="fas fa-arrow-right ml-2"></i>
                                         </button>
                                     </div>
